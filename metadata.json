@@ -1,0 +1,6 @@
+{
+  "name": "SUN7 ENERGY",
+  "description": "Soluções turnkey completas de energia solar fotovoltaica e infraestrutura de carregamento de veículos elétricos em Santa Catarina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
